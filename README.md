@@ -26,7 +26,7 @@ Instead of asking fixed questions, the system dynamically selects the **most inf
 
 * **Confidence-Based Stopping**
 
-  * Stops early when confidence ≥ 90%
+  * Stops early when confidence ≥ 75%
 
 * **Question Pruning**
 
@@ -97,7 +97,7 @@ Each question has 5 options:
 
 * Stops when:
 
-  * Confidence ≥ 90%
+  * Confidence ≥ 75%
   * OR no questions remain
 
 ## 7. Output
