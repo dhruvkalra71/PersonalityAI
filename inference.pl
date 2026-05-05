@@ -171,7 +171,7 @@ final_type(Type) :-
 
 should_stop :-
     max_confidence(Max),
-    Max >= 0.90.
+    Max >= 0.75.
 
 % =========================
 % OUTPUT
